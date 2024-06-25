@@ -1,10 +1,2 @@
-# Responsive Landing Page 
-
-### Responsive Landing Page Headphone
-
-- Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
-- Dark interface.
-- With animations when scrolling.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
+# Foodman_17-02-24
+Learn to craft a stunning, responsive restaurant landing page from scratch with HTML, CSS, and JavaScript!
