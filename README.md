@@ -1,7 +1,13 @@
-# landing-page
-# "Simple Weather Application using HTML, CSS &amp; JavaScript"
+# Responsive Landing Page Headphones 🎧
+## [Watch it on youtube](https://youtu.be/wXnlHIvKnTM)
+### Responsive Landing Page Headphones 🎧
 
-## Overview of Weather App
-It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
-The app is created for helping out the beginners on how to make Simple Weather Application using HTML, CSS &amp; JavaScript
+- Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
+- Dark interface.
+- With animations when scrolling.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
+Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+
+![](/preview.png)
